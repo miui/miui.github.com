@@ -134,7 +134,7 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_supersonic_1.5.27.1_CN_Deo_ZipA_Signed_stiffspliff.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_supersonic_1.5.27.0_CN_Deo_ZipA_Signed_stiffspliff.zip",
 		]
 	},
 
