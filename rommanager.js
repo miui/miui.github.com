@@ -69,5 +69,27 @@
           } 
         ]
       }
+      {
+        "device": "supersonic",
+        "name": "MIUI 1.5.27.1 (English)",
+        "summary": "MIUI 1.5.27.1 in English",
+        "product": "MIUI.us",
+        "incremental": "105271",
+        "modversion": "MIUI-1.5.27.1-SUPERSONIC-EN",
+        "screenshots": [
+          "http://roms.miui.us/images/ss1.png",
+          "http://roms.miui.us/images/ss2.png",
+          "http://roms.miui.us/images/ss3.png",
+          "http://roms.miui.us/images/ss4.png",
+          "http://roms.miui.us/images/ss5.png"
+        ],
+        "url": "http://roms.miui.us/1.5.27/MIUI.us_supersonic_1.5.27.1_Eng_Deo_ZipA_Signed_stiffspliff.zip",
+        "addons": [
+          {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+          } 
+        ]
+      }
   ]
 }
