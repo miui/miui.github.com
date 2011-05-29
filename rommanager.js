@@ -510,6 +510,6 @@
 		[
 		"http://roms.miui.us/1.5.27/MIUI.us_T959_1.5.27.0_CN_Deo_Signed.zip",
 		]
-	},
+	}
 	]
 }
