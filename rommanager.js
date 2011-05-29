@@ -1,5 +1,5 @@
 {
-	"version": "2",
+	"version": "1",
 	"homepage": "http://miui.us/",
 
 	"roms":
@@ -21,7 +21,10 @@
 		"http://roms.miui.us/images/ss5.png"
 		],
 
-		"url": "http://roms.miui.us/1.5.27/MIUI.us_passion_1.5.27.0_CN_Deo_Signed.zip"
+		"urls": 
+		[
+		"http://roms.miui.us/1.5.27/MIUI.us_passion_1.5.27.0_CN_Deo_Signed.zip"
+		],
 
 		"addons": 
 		[
@@ -48,7 +51,10 @@
 		"http://roms.miui.us/images/ss5.png"
 		],
 
-		"url": "http://roms.miui.us/1.5.27/MIUI.us_passion_1.5.27.0_Eng_Deo_Signed.zip"
+		"urls":
+		[
+		"http://roms.miui.us/1.5.27/MIUI.us_passion_1.5.27.0_Eng_Deo_Signed.zip"
+		],
 
 		"addons":
 		[
@@ -75,7 +81,10 @@
 		"http://roms.miui.us/images/ss5.png"
 		],
 
-		"url": "http://roms.miui.us/1.5.27/MIUI.us_Vision_1.5.27_CN_Deo_ZipA_Signed.zip",
+		"urls":
+		[
+		"http://roms.miui.us/1.5.27/MIUI.us_Vision_1.5.27_CN_Deo_ZipA_Signed.zip",
+		],
 
 		"addons":
 		[
@@ -102,7 +111,10 @@
 		"http://roms.miui.us/images/ss5.png"
 		],
 
-		"url": "http://roms.miui.us/1.5.27/MIUI.us_supersonic_1.5.27.1_Eng_Deo_ZipA_Signed_stiffspliff.zip",
+		"urls":
+		[
+		"http://roms.miui.us/1.5.27/MIUI.us_supersonic_1.5.27.1_Eng_Deo_ZipA_Signed_stiffspliff.zip",
+		],
 
 		"addons":
 		[
