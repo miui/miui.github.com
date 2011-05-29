@@ -45,14 +45,36 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_vision_1.5.27.1_Eng_Deo_ZipA_Signed.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_vision_1.5.27.1_Eng_Deo_ZipA_Signed.zip"
+		]
+	},
+
+	{
+		"device": "speedy",
+		"name": "MIUI 1.5.27.1 (English)",
+		"summary": "Ported by bcnice20",
+		"product": "MIUI.us",
+		"incremental": "105271",
+		"modversion": "MIUI-1.5.27.1-SPEEDY-EN",
+		"screenshots":
+		[
+		"http://roms.miui.us/images/ss1.png",
+		"http://roms.miui.us/images/ss2.png",
+		"http://roms.miui.us/images/ss3.png",
+		"http://roms.miui.us/images/ss4.png",
+		"http://roms.miui.us/images/ss5.png"
+		],
+
+		"urls":
+		[
+		"http://roms.miui.us/1.5.27/MIUI.us_speedy_1.5.27.1_Eng_Deo_ZipA_Signed_bcnice20.zip"
 		]
 	},
 
 	{
 		"device": "supersonic",
 		"name": "MIUI 1.5.27.1 (English)",
-		"summary": "MIUI 1.5.27.1 in English",
+		"summary": "Ported by stiffspliff",
 		"product": "MIUI.us",
 		"incremental": "105271",
 		"modversion": "MIUI-1.5.27.1-SUPERSONIC-EN",
@@ -67,14 +89,14 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_supersonic_1.5.27.1_Eng_Deo_ZipA_Signed_stiffspliff.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_supersonic_1.5.27.1_Eng_Deo_ZipA_Signed_stiffspliff.zip"
 		]
 	},
 
 	{
 		"device": "supersonic",
 		"name": "MIUI 1.5.27.0 (Chinese)",
-		"summary": "MIUI 1.5.27.0 in Chinese",
+		"summary": "Ported by stiffspliff",
 		"product": "MIUI.us",
 		"incremental": "15270",
 		"modversion": "MIUI-1.5.27.0-SUPERSONIC-CN",
@@ -89,7 +111,7 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_supersonic_1.5.27.0_CN_Deo_ZipA_Signed_stiffspliff.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_supersonic_1.5.27.0_CN_Deo_ZipA_Signed_stiffspliff.zip"
 		]
 	},
 
@@ -111,7 +133,7 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_ace_1.5.27.1_Eng_Deo_ZipA_Signed.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_ace_1.5.27.1_Eng_Deo_ZipA_Signed.zip"
 		]
 	},
 
@@ -133,7 +155,7 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_bravo_1.5.27.1_Eng_Deo_ZipA_Signed.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_bravo_1.5.27.1_Eng_Deo_ZipA_Signed.zip"
 		]
 	},
 
@@ -155,7 +177,7 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_crespo_1.5.27.1_Eng_Deo_ZipA_Signed.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_crespo_1.5.27.1_Eng_Deo_ZipA_Signed.zip"
 		]
 	},
 
@@ -177,12 +199,12 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_defy_1.5.27.1_Eng_Deo_ZipA_Signed.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_defy_1.5.27.1_Eng_Deo_ZipA_Signed.zip"
 		]
 	},
 
 	{
-		"device": "i9000",
+		"device": "galaxys",
 		"name": "MIUI 1.5.27.1 (English)",
 		"summary": "MIUI 1.5.27.1 in English",
 		"product": "MIUI.us",
@@ -199,17 +221,17 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_I9000_1.5.27.1_Eng_Deo_ZipA_Signed.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_I9000_1.5.27.1_Eng_Deo_ZipA_Signed.zip"
 		]
 	},
 
 	{
-		"device": "incrediblec",
-		"name": "MIUI 1.5.27.1 (English)",
-		"summary": "MIUI 1.5.27.1 in English",
+		"device": "inc",
+		"name": "MIUI 1.5.27.2 (English)",
+		"summary": "Ported by leeech, warttack and wowthatisrandom",
 		"product": "MIUI.us",
-		"incremental": "105271",
-		"modversion": "MIUI-1.5.27.1-INCREDIBLEC-EN",
+		"incremental": "105272",
+		"modversion": "MIUI-1.5.27.2-INCREDIBLEC-EN",
 		"screenshots":
 		[
 		"http://roms.miui.us/images/ss1.png",
@@ -221,7 +243,7 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_incrediblec_1.5.27.1_Eng_Deo_ZipA_Signed_leeech.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_incrediblec_1.5.27.2_Eng_Deo_ZipA_Signed_leeech.zip"
 		]
 	},
 
@@ -243,7 +265,7 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_milestone_1.5.27.1_Eng_Deo_ZipA_Signed.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_milestone_1.5.27.1_Eng_Deo_ZipA_Signed.zip"
 		]
 	},
 
@@ -265,12 +287,12 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_spade_1.5.27.1_Eng_Deo_ZipA_Signed.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_spade_1.5.27.1_Eng_Deo_ZipA_Signed.zip"
 		]
 	},
 
 	{
-		"device": "t959",
+		"device": "vibrant",
 		"name": "MIUI 1.5.27.1 (English)",
 		"summary": "MIUI 1.5.27.1 in English",
 		"product": "MIUI.us",
@@ -287,7 +309,29 @@
 
 		"urls":
 		[
-		"http://roms.miui.us/1.5.27/MIUI.us_T959_1.5.27.1_Eng_Deo_ZipA_Signed.zip",
+		"http://roms.miui.us/1.5.27/MIUI.us_T959_1.5.27.1_Eng_Deo_ZipA_Signed.zip"
+		]
+	},
+
+	{
+		"device": "sholes",
+		"name": "MIUI 1.5.27.1 (English)",
+		"summary": "MIUI 1.5.27.1 in English",
+		"product": "MIUI.us",
+		"incremental": "105271",
+		"modversion": "MIUI-1.5.27.1-SHOLES-EN",
+		"screenshots":
+		[
+		"http://roms.miui.us/images/ss1.png",
+		"http://roms.miui.us/images/ss2.png",
+		"http://roms.miui.us/images/ss3.png",
+		"http://roms.miui.us/images/ss4.png",
+		"http://roms.miui.us/images/ss5.png"
+		],
+
+		"urls":
+		[
+		"http://roms.miui.us/droid/MIUI.us_sholes_1.5.27.1_Eng_Deo_ZipA_Signed_magiman7.zip"
 		]
 	}
 	]
